@@ -23,22 +23,26 @@ Kunstmatige intelligentie(AI) en Machine Learning(ML) zijn onderwerpen waar ik g
 
 Om alvast een goede stap te maken heb ik een korte cursus gevolgd. [LinkedIn Learning - Machine learning with python foundations](https://www.linkedin.com/learning/machine-learning-with-python-foundations)
 
-### **1.1 Vervolg stap**
+### **1.1 Vervolgstappen**
 
-Om de volgende stap te kunnen maken zal ik nog meer kennis op moeten doen. Daarom ben ik gestart met een cursus op Udemy [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
-\
+Om de volgende stap te kunnen maken zal ik nog meer kennis op moeten doen. Daarom ben ik gestart met een cursus op Udemy [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)  
+<br/>
 
 ## **2. Advies**
 
-Mijn kennis is nog niet ver genoeg dat ik een advies kan geven over schaalbaarheid of haalbaarheid van het project waarmee ik nu bezig ben. Ik hoop voor de volgende iteratie hier iets over te kunnen zeggen wanneer ik verder ben in de Udemy training.\
+Mijn kennis is nog niet ver genoeg dat ik een advies kan geven over schaalbaarheid of haalbaarheid van het project waarmee ik nu bezig ben. Ik hoop voor de volgende iteratie hier iets over te kunnen zeggen wanneer ik verder ben in de Udemy training.
+<br/>
+<br/>
 
 ## **3. Ontwerp**
 
 Ik ben momenteel niet in staat om de architectuur of de teststrategie te kunnen bepalen ook hiervoor geldt dat ik hier meer over kan zeggen wanneer ik verder ben met de cursus.\
+<br/>
 
 ## **4. Implementatie**
 
 Helaas zal dit in een later stadium van dit semester aan bod komen. Ik hoop dat tijdens de cursus al wat zaken duidelijker worden en misschien een kleine proof of concept(POC) op kan zetten.\
+<br/>
 
 ## **5. Management (Devops)**
 
@@ -55,18 +59,22 @@ Het biedt ook uitgebreide mogelijkheden voor continuous integration / continuous
 
 Gitub: [S7HaMachineLearning](https://github.com/S7HaMachineLearning/documentation)
 
-### **5.3 Vervolg stap**
+### **5.3 Vervolgstappen**
 
-Ik vind dat ik hierom al op beginnend zit. Om hier verder te ontwikkelen en dit aan te kunnen tonen zal ik eerst code moeten gaan schrijven. Dan kan ik hiervoor ook een pipeline opzetten om de code automatisch te testen en te deployen.\
+Ik vind dat ik hierom al op beginnend zit. Om hier verder te ontwikkelen en dit aan te kunnen tonen zal ik eerst code moeten gaan schrijven. Dan kan ik hiervoor ook een pipeline opzetten om de code automatisch te testen en te deployen.
+<br/>
+<br/>
 
 ## **6. Beoordelen**
 
 Ik vind dat ik hier op orienterend zit. Ik kan een hoofdvraag een subvragen maken en de bijbehorende onderzoeken volgens het The DOT Framework.
 Zie [Projectplan - onderzoeksvraag 3 BC](https://github.com/S7HaMachineLearning/documentation#onderzoeksvraag-3-BC)
 
-### **6.1 Vervolg stap**
+### **6.1 Vervolgstappen**
 
-Om de volgende stap in mijn ontwikkeling te maken wil ik de hoofd- en subvragen verfijnen en de bijbehorende onderzoeken gaan uitvoeren.\
+Om de volgende stap in mijn ontwikkeling te maken wil ik de hoofd- en subvragen verfijnen en de bijbehorende onderzoeken gaan uitvoeren.
+<br/>
+<br/>
 
 ## **7. Communicatie**
 
@@ -89,10 +97,12 @@ Op school heb ik samen met mijn groep onze pitch gedaan. Ik heb mijn onderzoeksv
 
 [Presentatie feedback](../Groep/Feedback.md#27-02-2023)
 
-### **7.2 Vervolg stap**
+### **7.2 Vervolgstappen**
 
 Aanstaande maandag 06-03-2023 krijgt de klas een presentatie over het eind semester. Deze zal in het engels gegeven worden. Ik zal de presentator vragen of mijn opdracht goed genoeg. Dit zal in het Engels moeten en zal ik uitleg moeten geven over de inhoud van mijn opdracht zodat het voor de presentator duidelijk genoeg is om daar een antwoord op te kunnen geven.
-Als ik dit goed genoeg uit kan leggen zonder wedervragen te krijgen omdat het niet duidelijk genoeg is dan vind ik dat ik dan op Geoefend zit.\
+Als ik dit goed genoeg uit kan leggen zonder wedervragen te krijgen omdat het niet duidelijk genoeg is dan vind ik dat ik dan op Geoefend zit.
+<br/>
+<br/>
 
 ## **8. Leervermogen**
 
@@ -103,6 +113,6 @@ Ook voor dit schoolproject blijf ik mijn kennis verbreden, Curses AI Machine Lea
 
 Ik ben nu gestart met een cursus op Udemy en zodra deze klaar is wordt het certificaat hierin opgenomen.
 
-### **8.1 Vervolg stap**
+### **8.1 Vervolgstappen**
 
 Om de stap naar Uitsteken te maken zal ik feedback van de docent moeten ontvangen.
