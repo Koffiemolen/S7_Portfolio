@@ -11,7 +11,7 @@ In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit seme
 | 5 Management    |        |          |     x     |             |    x     |
 | 6 Oordelen      |        |          |           |      x      |          |
 | 7 Communicatie  |        |          |     x     |             |          |
-| 8 Leervermogen  |        |          |           |      x      |          |
+| 8 Leervermogen  |        |          |     x     |             |          |
 
 ---
 
@@ -42,4 +42,67 @@ Helaas zal dit in een later stadium van dit semester aan bod komen. Ik hoop dat 
 
 ## **5. Management (Devops)**
 
-### Jira - Project management
+### **5.1 Jira - Project management**
+
+Omdat we in een groep werken en soms overlap of afhankelijkheden hebben hebben wij ervoor gekozen om agile te werken. Het programma dat wij hiervoor gebruiken om alles inzichtelijk maken is Jira.
+
+Voor elke subvraag heb ik een epic aangemaakt zo kan ik eenvoudig user stories aanmaken en inzichtelijk maken waarmee ik bezig ben.
+
+### **5.2 Github - versioning**
+
+Github is uitermate geschikt platform voor versiebeheer, hiermee kan ik wijzingen in code op een gestructureerde manier opslaan en beheren.
+Het biedt ook uitgebreide mogelijkheden voor continuous integration / continuous deployment (CICD)
+
+Gitub: [S7HaMachineLearning](https://github.com/S7HaMachineLearning/documentation)
+
+### **5.3 Vervolg stap**
+
+Ik vind dat ik hierom al op beginnend zit. Om hier verder te ontwikkelen en dit aan te kunnen tonen zal ik eerst code moeten gaan schrijven. Dan kan ik hiervoor ook een pipeline opzetten om de code automatisch te testen en te deployen.\
+
+## **6. Beoordelen**
+
+Ik vind dat ik hier op orienterend zit. Ik kan een hoofdvraag een subvragen maken en de bijbehorende onderzoeken volgens het The DOT Framework.
+Zie [Projectplan - onderzoeksvraag 3 BC](https://github.com/S7HaMachineLearning/documentation#onderzoeksvraag-3-BC)
+
+### **6.1 Vervolg stap**
+
+Om de volgende stap in mijn ontwikkeling te maken wil ik de hoofd- en subvragen verfijnen en de bijbehorende onderzoeken gaan uitvoeren.\
+
+## **7. Communicatie**
+
+Ik vind mijzelf op beginnend zitten maar twijfel of het niet geoefend moet zijn.
+
+Voor mijn werk werk ik als consultant voor verschillende klanten. Hiervoor voer ik verschillende opdrachten en projecten uit. Dit zijn Nederlandse maar ook Duitse klanten. Als er problemen zijn met het software pakket maak ik meldingen aan en troubleshoot ik met 3de lijns supportengineers en ontwikkelaars vanuit Amerika.
+
+Omdat ik in een groep werk voor dit semester hebben wij regelmatig overleggen en wisselen we wie er notuleert en wie het overleg voorzit.
+
+Ook de pitch was duidelijk voor de docenten, feedback hierop was positief, zie [Feedback 09-02-2023](../Groep/Feedpulse.md#09-02-2023)
+
+[Overleg 27-02-2023](../Proces/Overleggen.md#27-02-2023) begonnen met het plannen van het project.
+
+Zie [Jira - Project management](#jira---project-management)
+
+### **7.1 Presenteren**
+
+Op school heb ik samen met mijn groep onze pitch gedaan. Ik heb mijn onderzoeksvragen voorgesteld en vragen beantwoord.
+[Pitch presentatie 27-02-2032](../Overig/presentatie_1_pitch.pdf)
+
+[Presentatie feedback](../Groep/Feedback.md#27-02-2023)
+
+### **7.2 Vervolg stap**
+
+Aanstaande maandag 06-03-2023 krijgt de klas een presentatie over het eind semester. Deze zal in het engels gegeven worden. Ik zal de presentator vragen of mijn opdracht goed genoeg. Dit zal in het Engels moeten en zal ik uitleg moeten geven over de inhoud van mijn opdracht zodat het voor de presentator duidelijk genoeg is om daar een antwoord op te kunnen geven.
+Als ik dit goed genoeg uit kan leggen zonder wedervragen te krijgen omdat het niet duidelijk genoeg is dan vind ik dat ik dan op Geoefend zit.\
+
+## **8. Leervermogen**
+
+Ik vind dat ik op beginnend zit. Ik denk zelfs dat ik hier op geoefend zit. De reden waarom ik voor deze opleiding heb gekozen is om mijzelf verder te ontwikkelen, nieuwe vaardigheden meester te maken.
+Nu ik steeds beter wordt in het ontwikkelen van applicaties ben ik aan mijn eerste opdrachten begonnen. Dit is het maken van een Webhook en de daarbij behorende wensen vanuit de klant. Ik kom met voorstellen voor dit project waarvan de klant nog niet aan gedacht heeft. Zoals verbeteringen ten behoeve van de snelheid en flexibiliteit. Of voorstellen die de veiligheid verhogen. Zoals het implementeren van rate limiting en ip whitelisting. Gebruik maken van een niet standaard poort en het opzetten van een CICD straat om de kwaliteit van de code omhoog te krijgen.
+
+Ook voor dit schoolproject blijf ik mijn kennis verbreden, Curses AI Machine Learning [LinkedIn certificaat](../Bestanden/CertificateOfCompletion_ML_BC.pdf)
+
+Ik ben nu gestart met een cursus op Udemy en zodra deze klaar is wordt het certificaat hierin opgenomen.
+
+### **8.1 Vervolg stap**
+
+Om de stap naar Uitsteken te maken zal ik feedback van de docent moeten ontvangen.
