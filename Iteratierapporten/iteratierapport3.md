@@ -8,8 +8,8 @@ In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit seme
 | 2 Advies        |        |          |           |      x      |          |
 | 3 Ontwerp       |        |          |           |             |    x     |
 | 4 Implementatie |        |          |           |             |    x     |
-| 5 Management    |        |          |     x     |             |    x     |
-| 6 Oordelen      |        |          |     x     |     <-      |          |
+| 5 Management    |        |          |     x     |             |          |
+| 6 Oordelen      |        |          |           |      x      |          |
 | 7 Communicatie  |        |          |     x     |             |          |
 | 8 Leervermogen  |        |          |     x     |             |          |
 
@@ -19,77 +19,92 @@ In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit seme
 
 ## **1. Analyse**
 
-Op maandag 13 maart heb ik een workshop 'Design challenge' gevolgd. Hier kreeg ik de opdracht om mijn bestaande onderzoeksvraag om te bouwen naar deze 'challenge'. Dit heeft mij meer inzicht gegeven voor het goed opzetten van een onderzoeksvraag en waaraan gedacht moet worden.
+Tijdens de feedback op mijn iteratie rapport 3 bleek dat ik de requirements nog niet goed had begrepen. Ik ben op onderzoek gegaan en heb verschillende bronnen doorgenomen wat er nu onder requirements vallen en waaraan gedacht moet worden wanneer het om funtionele en niet functionele eisen gaat. Ik heb een nieuwere versie gemaakt in dit document: [Requirements](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/0.%20Requirements.md).
 
-De resultaten hiervan zijn te vinden op: [Design challenge](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeksvragen/design%20challenge.md)
-
-Door hieraan te werken, heb ik betere onderzoekvragen kunnen formuleren. Ook de feedback van de docunten hierover was positief. Daarom vind ik dat ik op dit onderdeel beginnend zit.
+Daarnaast heb ik ook een aantal use-cases gemaakt: [Project plan](https://github.com/S7HaMachineLearning/documentation#115-use-cases)
 
 ### **1.1 Vervolgstappen**
 
-Om de volgende stap te kunnen maken zal ik nog meer kennis op moeten doen. Ik ben deze cursus aan he volgen: [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
-Voor de volgende iteratie wil ik deze afgerond hebben en verwacht ik een goede analyse te kunnen maken en dit onderdeel op goefend te kunnen zetten.
+Om de volgende stap te kunnen maken wil ik mij verdiepen in welke impact het verzamelen van het gedrag van de gebruiker kan hebben op de AVG en de GDPR.
+
 <br/>
 <br/>
 
 ## **2. Advies**
 
-Voor deze iteratie heb ik stappen gemaakt.
+De afgelopen weken ben ik bezig geweest met het volgen van een cursus op Udemy over het opzetten van een model voor machine learning. De cursus gaat eerst in op de basis kennis die nodig is. Tot nu toe heb ik veel geoefend met de modules Matplotlib, Numpy en Pandas.
+Mijn oefening zijn terug te vinden op, [Oefeningen](https://github.com/Koffiemolen/ML)
+
+### **2.1 Vervolgstappen**
+
+De komende weken ga ik verder met Scikit-learn module en hier ga ik leren hoe ik een model kan gaan bouwen.
+
 <br/>
 <br/>
 
 ## **3. Ontwerp**
 
-Voor deze iteratie heb ik stappen gemaakt.
+Tijdens het volgen van de cursus kwam ik het volgende plaatje tegen: [6 stappen van ML](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/Ontwerp/6-step-ml-framework.png)
+Dit geeft in een hoogover goed weer welke stappen er nodig zijn om van data naar een ML model te kunnen gaan.
+
+Ik heb samen met mijn groepsgenoten gewerkt aan een C4 model om inzichtelijk te krijgen hoe de structuur van de addon in combinatie met Home Assistant eruit komt te zien.
+[Landschap model](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/Ontwerp/SystemLandscape.png)
+
+### **3.1 Vervolgstappen**
+
+De komende weken wil ik het C4 model voor mijn gedeelte verder uit gaan werken en een flowchart.
 <br/>
 <br/>
 
 ## **4. Implementatie**
 
-Voor deze iteratie heb ik stappen gemaakt.
+Ik heb een start gemaakt met de cursus en er beginnen steeds meer zaken op zijn plek te vallen.
+
+### **4.1 Vervolgstappen**
+
+De komende weken wil ik een start maken met het ophalen van de data uit Home Assistant om een voorbereiding te kunnen maken om een model op te gaan zetten.
 <br/>
 <br/>
 
 ## **5. Management (Devops)**
 
+De komende weken hoop ik zover te komen dat ik mijn code kan gaan valideren. Ik heb inmiddels in de cursus al vernomen dat je met scikit-learn met je data op kan splitsen in test en validatie. Gebruikelijk is dat 80 procent gebruikt wordt om het model te trainen en de overige 20 procent bestaat uit 10 procent test data en de andere 10 procent in validatie data. Dit is eenvoudig te realiseren door het commando `train_test_split(X, y, test_size=0.2) `
+
 ### **5.1 Vervolgstappen**
 
-Om hier verder te ontwikkelen en dit aan te kunnen tonen zal ik eerst code moeten gaan schrijven. Dan kan ik hiervoor ook een pipeline opzetten om de code automatisch te testen en te deployen.
+Komende weken wil ik aan de slag om een eerste model te hebben en deze ook te kunnen valideren.
+
 <br/>
 <br/>
 
 ## **6. Beoordelen**
 
-Door het uitvoeren van de 'Design Challenge' heb ik een goede ontwikkeling kunnen maken van hoe een onderzoeksvraag uit moet zien en waaraan gedacht moet worden.
-
-Ik vind dat ik mijn onderzoeksvragen een heel stuk verbeterd heb en daarom een stap weet te maken naar het volgende niveau. Ik zit nu op het niveau beginnend.
-
-- [Projectplan - onderzoeksvraag 3 BC](https://github.com/S7HaMachineLearning/documentation#onderzoeksvraag-3-BC)
-- [Design challenge](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeksvragen/design%20challenge.md)
+Nu er meer kennis is van ML kan er nu gestart worden met de eerste onderzoeksvraag of de data binnen Home Assistant toereikend is voor het leren van een model voor ML. De komende weken verwacht ik het de eerste onderzoeksvraag te kunnen beantwoorden.
 
 ### **6.1 Vervolgstappen**
 
-Om de volgende stap in mijn ontwikkeling te maken wil ik het onderzoek uit gaan voeren zodat ik kan bevestigen of mijn vragen goed zijn of dat er nog een aanpassing gedaan moet worden.
+Ik wil nu beginnen met het uitwerken van de onderzoeksvragen.
+
 <br/>
 <br/>
 
 ## **7. Communicatie**
 
-Op maandag 20 maart hebbe wij als groep een presentatie gegeven over hoe wij de 'Design Challenge'-opdracht aangepakt hebben. De resultaten hiervan hebben wij besproken in de groep en de feedback hierover verwerkt in mijn onderzoeksvragen. [Design challenge](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeksvragen/design%20challenge.md)
+Tijdens de online les heb ik aangekaart de waarde van Jupyter Notebooks en wat er mogelijk is. Dat het verwerken van extra informatie mogelijk is en op deze manier een logisch verhaal neergezet kan worden met code en dat de opmaak van het document toch gewaarborgd blijft. In een Python script is dit namelijk niet mogelijk. Een studiegenoot gaf aan dat hij dit zeer waardevol vind en hier ook gebruik van gaat maken.
 
 ### **7.1 Vervolgstappen**
 
-Om de volgende stap te kunnen zetten wil ik nog een presentatie geven over mijn op gedane kennis over machine learning en wat ik bereik hebt. Dit zal niet voor de volgende iteratie zijn maar voor iteratie 4.
+Zodra ik mijn eerste model voor ML heb op kunnen zetten wil ik dit graag laten zien aan de klas in de vorm van een demo.
+
 <br/>
 <br/>
 
 ## **8. Leervermogen**
 
-De 'design challenge' heeft goed geholpen om de volgende stap te kunnen maken om een betere onderzoeksvraag te schrijven.
+Ik ben goed bezig met de cursus van Udemy en er beginnen meer stukken op zijn plek te vallen.
 
 ### **8.1 Vervolgstappen**
 
-Om de volgende stap te kunnen maken wil ik mijn huidige cursus en deze cursus afgerond hebben:
+Om de volgende stap te kunnen maken wil ik mijn huidige cursus afronden.
 
-- [Kaggle intro course](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery) (huidig)

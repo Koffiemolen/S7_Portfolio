@@ -10,5 +10,7 @@ Week 1 t/m 3
 Week 4 t/m 6
 [Rapport2](iteratierapport2.md)
 
+## Iteratie 3
+
 Week 7 t/m 9
 [Rapport3](iteratierapport3.md)
