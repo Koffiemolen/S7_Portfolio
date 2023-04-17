@@ -1,4 +1,4 @@
-# Iteratie rapport 2
+# Iteratie rapport 3
 
 In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit semester gelden.
 
@@ -6,8 +6,8 @@ In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit seme
 | --------------- | :----: | :------: | :-------: | :---------: | :------: |
 | 1 Analyse       |        |          |     x     |     <-      |          |
 | 2 Advies        |        |          |           |      x      |          |
-| 3 Ontwerp       |        |          |           |             |    x     |
-| 4 Implementatie |        |          |           |             |    x     |
+| 3 Ontwerp       |        |          |           |      x      |    <-    |
+| 4 Implementatie |        |          |           |      x      |    <-    |
 | 5 Management    |        |          |     x     |             |          |
 | 6 Oordelen      |        |          |           |      x      |          |
 | 7 Communicatie  |        |          |     x     |             |          |
@@ -23,6 +23,8 @@ Tijdens de feedback op mijn iteratie rapport 3 bleek dat ik de requirements nog 
 
 Daarnaast heb ik ook een aantal use-cases gemaakt: [Project plan](https://github.com/S7HaMachineLearning/documentation#115-use-cases)
 
+Ik denk daarom dat ik mijzelf kan aanmerken voor het niveau beginnend.
+
 ### **1.1 Vervolgstappen**
 
 Om de volgende stap te kunnen maken wil ik mij verdiepen in welke impact het verzamelen van het gedrag van de gebruiker kan hebben op de AVG en de GDPR.
@@ -34,6 +36,8 @@ Om de volgende stap te kunnen maken wil ik mij verdiepen in welke impact het ver
 
 De afgelopen weken ben ik bezig geweest met het volgen van een cursus op Udemy over het opzetten van een model voor machine learning. De cursus gaat eerst in op de basis kennis die nodig is. Tot nu toe heb ik veel geoefend met de modules Matplotlib, Numpy en Pandas.
 Mijn oefening zijn terug te vinden op, [Oefeningen](https://github.com/Koffiemolen/ML)
+
+Ik denk daarom dat ik mijzelf kan aanmerken voor het niveau oriënterend.
 
 ### **2.1 Vervolgstappen**
 
@@ -50,6 +54,8 @@ Dit geeft in een hoogover goed weer welke stappen er nodig zijn om van data naar
 Ik heb samen met mijn groepsgenoten gewerkt aan een C4 model om inzichtelijk te krijgen hoe de structuur van de addon in combinatie met Home Assistant eruit komt te zien.
 [Landschap model](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/Ontwerp/SystemLandscape.png)
 
+Ik denk daarom dat ik mijzelf kan aanmerken voor het niveau oriënterend.
+
 ### **3.1 Vervolgstappen**
 
 De komende weken wil ik het C4 model voor mijn gedeelte verder uit gaan werken en een flowchart.
@@ -59,6 +65,9 @@ De komende weken wil ik het C4 model voor mijn gedeelte verder uit gaan werken e
 ## **4. Implementatie**
 
 Ik heb een start gemaakt met de cursus en er beginnen steeds meer zaken op zijn plek te vallen.
+[Oefeningen](https://github.com/Koffiemolen/ML)
+
+Ik denk daarom dat ik mijzelf kan aanmerken voor het niveau oriënterend.
 
 ### **4.1 Vervolgstappen**
 
