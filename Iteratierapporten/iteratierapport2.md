@@ -8,7 +8,7 @@ In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit seme
 | 2 Advies        |        |          |           |      x      |          |
 | 3 Ontwerp       |        |          |           |             |    x     |
 | 4 Implementatie |        |          |           |             |    x     |
-| 5 Management    |        |          |     x     |             |    x     |
+| 5 Management    |        |          |     x     |             |          |
 | 6 Oordelen      |        |          |     x     |     <-      |          |
 | 7 Communicatie  |        |          |     x     |             |          |
 | 8 Leervermogen  |        |          |     x     |             |          |
