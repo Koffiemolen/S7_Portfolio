@@ -1,4 +1,4 @@
-# Iteratie rapport 3
+# Iteratie rapport 4
 
 In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit semester gelden.
 
@@ -19,13 +19,10 @@ In dit iteratierapport zal ik reflecteren op de leeruitkomsten die voor dit seme
 
 ## **1. Analyse**
 
-Deze iteratie heb ik me bezig gehouden met het opstellen van een requirements document.\
-Hierin staan de functionals en non-functionals beschreven en hoe deze te valideren.\
-Zie [Requirements document](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/4.%20Requirements%20document.md).
+Deze iteratie heb ik na de feedback van de docenten de functionals en non functionals herzien.
+Zie [Requirements document](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/0.%20Requirements.md).
 
-Ook heb ik een aantal use cases opgesteld en toegevoegd aan het project plan, zie [Project plan](https://github.com/S7HaMachineLearning/documentation#115-use-cases)
-
-Voor het testen van het model kan ik inmiddels met een test en validatieset bepalen of een model goed funtioneerd op basis van de accuracy, precision, recall, en F1 score. Hierop kan ik met geautomatiseerde hyperparameters testen welke aanpassingen nodig zijn om tot een beter model te kunnen komen.
+Ik vind dat ik voor dit onderdeel op geoefend zit. Ik kan risco analyses uitvoeren en kan criterea vaststellen voor kwaliteitseisen.
 
 ### **1.1 Vervolgstappen**
 
@@ -44,6 +41,8 @@ Het eerste wat ik gedaan heb is een klein onderzoek naar welke type model het be
 Zie [Model keuze](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/2.%20Onderzoek%20-%20Model_keuze%20-%20Available%20product%20analysis.md#2.-Onderzoek---Welk-model-is-geschikt).\
 Met de uitkomst hiervan ben ik door gegaan met het ontwerpen van een model.
 
+Ik vind dat ik nog op beginnend zit. Ik kan nu al wel een model voorstellen voor het genereren automations maar weet nog niet het fijne hiervan.
+
 ### **2.1 Vervolgstappen**
 
 Advies van de docent nodig.
@@ -54,10 +53,16 @@ Advies van de docent nodig.
 ## **3. Ontwerp**
 
 Ik heb afgelopen weken druk gewerkt aan een workflow van hoe het proces dient te verlopen wanneer men van a tot z een model wil bouwen.
-[Workflow]()
+[Workflow](https://github.com/Koffiemolen/ML/blob/master/Pictures/workflow.png)
+
+De stappen die nodig zijn om tot een model te komen:
+[Stappen](https://github.com/Koffiemolen/ML/blob/master/heart-disease-project/MachineLearning_presentatie.ipynb)
+
+Ik vind mijzelf op het beginnend niveau zitten omdat ik weet hoe de architectuur uit komt te zien en welke technieken er gebruikt gaan worden.
 
 ### **3.1 Vervolgstappen**
 
+Om naar proficient te gaan wil ik het C4 model maken.
 Advies van de docent nodig.
 
 <br/>
@@ -68,6 +73,8 @@ Advies van de docent nodig.
 Het is inmiddels gelukt om een model te maken met classificatie en regressie.
 Vervolgens deze te verbeteren door gebruik te maken van het automatisch testen van hyperparameters.
 [Supervised_machinelearning_Classification](https://github.com/Koffiemolen/ML/blob/master/heart-disease-project/MachineLearning_presentatie.ipynb)
+
+Ik vind mijzelf op proficient. Ik kan een model maken en verbeteren. Ook kan ik een workflow maken in Github om te controleren of het goed werkt. https://github.com/S7HaMachineLearning/AA_ML/actions
 
 ### **4.1 Vervolgstappen**
 
@@ -80,7 +87,9 @@ Advies van de docent nodig.
 
 Voor het model is er een Github actions (pipelines) toegevoegd.\
 Een voor het uitvoeren van unit testen van het model.
-De actions zijn [hier](https://github.com/S7HaMachineLearning/AA_Model/actions) te vinden.
+De actions zijn [hier](https://github.com/S7HaMachineLearning/AA_ML/actions) te vinden.
+
+Ik vind dat ik op proficient zit. Ik kan een CICD straat maken en validaties uitvoeren of mijn code goed werkt.
 
 ### **5.1 Vervolgstappen**
 
@@ -99,16 +108,9 @@ Advies van de docent nodig.
 Hoe kan een machine learning-gebaseerd systeem op basis van bestaande apparaten en automatiseringen, nieuwe automatiseringen genereren en voorstellen aan Home Assistant-gebruikers?
 ```
 
-Door verschillende onderzoeken uit te voeren en proof-of-concepts te maken blijkt dit mogelijk te zijn:
-
--
--
--
--
-
 ### **6.1 Vervolgstappen**
 
-Advies van de docent nodig.
+Onderzoeksvragen verder uitwerken.
 
 <br/>
 <br/>
@@ -116,6 +118,7 @@ Advies van de docent nodig.
 ## **7. Communicatie**
 
 Ik heb aan de les een demo gegeven hoe je op basis van een tabel een model kan maken en hoe je voorspellingen kan doen.
+Ik vind dat mijn communicatie op het niveau van proficient zit.
 
 ### **7.1 Vervolgstappen**
 
@@ -126,11 +129,10 @@ Advies van de docent nodig.
 
 ## **8. Leervermogen**
 
-Meerdere onderzoeksmethoden zijn gebruikt en beschreven.
-Hiermee heb ik een voor mij nieuwe onderzoeksmethodes gebruikt, namelijk de Workshop - Prototyping research methode.
+Ik ben gestart met het beantwoorden van de eerste onderzoeksvraag en en heb hiervoor de methode Workshop - Prototyping research methode gebruikt. [Voor-onderzoek](https://github.com/S7HaMachineLearning/documentation/blob/main/S7HaMachineLearning/Onderzoeken/Bastiaan/1.%20Voor-onderzoek-MachineLearning.md)
 
 ```
-Om de stap naar 'Advanced' te kunnen maken moet ik ander meerder onderzoeksmethodes gebruiken en beschrijven.
+Om de stap naar 'Advanced' te kunnen maken moet ik meerdere onderzoeksmethodes gebruiken en beschrijven.
 ```
 
 ### **8.1 Vervolgstappen**
